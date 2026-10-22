@@ -1,0 +1,11 @@
+{
+  "name": "chem-kings-pool-service",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/assemble.mjs && bash scripts/build.sh",
+    "validate": "node scripts/validate-artifact.mjs",
+    "dev": "node scripts/dev.mjs",
+    "test": "node scripts/check.mjs"
+  }
+}
