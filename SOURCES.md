@@ -14,3 +14,5 @@ The existing homepage at https://www.sacchemkings.com/ redirected to unrelated g
 Customer cards paraphrase three reviews from the business review page and link to sources. Social pages could not be fully fetched by research tooling; URLs were verified as business-published destinations, not account-ownership authentication.
 
 Hero photo: https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7 (Unsplash), locally optimized and embedded. Used as illustrative pool imagery. Social card is a locally produced crop with original typography. No photo is claimed as Chem Kings work.
+
+Logo and brand colors: user-supplied Instagram screenshot IMG_9730.jpeg, October 21, 2026. Extracted existing artwork without redrawing.

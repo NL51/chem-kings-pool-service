@@ -47,6 +47,6 @@ The authoritative Sites project ID is in `.openai/hosting.json`. Preserve it for
 
 ## Sources and asset attribution
 
-See `SOURCES.md`. Hero photo is illustrative stock imagery, not a claimed Chem Kings project. Logo is an original text/crown concept. Review cards are explicitly labeled summaries of published customer reviews, not fabricated quotations.
+See `SOURCES.md`. Hero photo is illustrative stock imagery, not a claimed Chem Kings project. Logo is the authentic Chem Kings Pools & Spas mark extracted from the user-provided screenshot. Review cards are explicitly labeled summaries of published customer reviews, not fabricated quotations.
 
 The public footer identifies this as a website concept prepared for Chem Kings. Remove that note upon business approval and handoff.
