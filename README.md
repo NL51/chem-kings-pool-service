@@ -9,7 +9,7 @@ Public website: https://chem-kings-pool-service.roundprawn256.chatgpt.site
 - Home, services overview, five service pages, about, reviews, FAQs, contact and privacy.
 - Service-area overview plus 16 community pages.
 - Unique titles/descriptions, canonical URLs, LocalBusiness JSON-LD, XML sitemap, robots.txt, accessible navigation and responsive layouts.
-- Locally served 1200×630 JPEG social card, Open Graph and Twitter metadata.
+- Locally served 1200×630 JPEG homepage screenshot social preview, Open Graph and Twitter metadata.
 - Call/email actions, verified Instagram/Facebook/X/Yelp links and Google Maps business link.
 - Validated live quote endpoint with consent, honeypot, origin validation and basic per-hour submission limits.
 - Durable R2 inquiry storage and a server-key-protected inbox at `/admin/`.

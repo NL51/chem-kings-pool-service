@@ -14,3 +14,8 @@ d.text((481,385),'Pools & spas. Clear water. Less work.',font=ImageFont.truetype
 d.text((481,433),'Sacramento & surrounding communities',font=ImageFont.truetype(f,22),fill='#294651')
 d.text((66,588),'WEEKLY POOL CARE  /  REPAIRS  /  SPA SERVICE',font=ImageFont.truetype(f,19),fill='white')
 b=io.BytesIO();card.save(b,'JPEG',quality=92);data['og']=base64.b64encode(b.getvalue()).decode();(root/'assets-data.json').write_text(json.dumps(data))
+
+# Preserve the approved homepage screenshot as the social preview.
+if (root/'homepage-preview.jpg').exists():
+ data['og']=base64.b64encode((root/'homepage-preview.jpg').read_bytes()).decode()
+ (root/'assets-data.json').write_text(json.dumps(data))
